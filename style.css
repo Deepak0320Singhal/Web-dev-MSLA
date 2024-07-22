@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#header{
+    
+    height: 695px;
+    width: 98.5vw;
+    background-image: url(./Assets/background.jpeg);
+}
+
+.Heading {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: whitesmoke;
+    text-align: center;
+}
+
+#header-box{
+    padding: 280px 0px;
+}
+#sec-two{
+    width: 100vw;
+    height: 500px;
+    display: inline;
+}
+.box {
+    display: inline-block;
+    line-height: 26px;
+    background-color: #c7a3a3;
+    width: 40%;
+    height: 150px;
+    margin: 60px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+#box h2{
+    margin: 200px
+}
+
+/* .box:hover{
+
+} */    
+
+#bottom{
+    color: #fff;
+    background-color: #212121;  
+    height: 50px;
+    
+}
+
+#bottom p{
+    text-align: center;
+    padding-top: 15px ;
+}
